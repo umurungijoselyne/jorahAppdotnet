@@ -1,0 +1,11 @@
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\bin\Debug\netcoreapp2.1\ConsoleApp2.Db.deps.json
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\bin\Debug\netcoreapp2.1\ConsoleApp2.Db.runtimeconfig.json
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\bin\Debug\netcoreapp2.1\ConsoleApp2.Db.runtimeconfig.dev.json
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\bin\Debug\netcoreapp2.1\ConsoleApp2.Db.dll
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\bin\Debug\netcoreapp2.1\ConsoleApp2.Db.pdb
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\obj\Debug\netcoreapp2.1\ConsoleApp2.Db.csprojAssemblyReference.cache
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\obj\Debug\netcoreapp2.1\ConsoleApp2.Db.csproj.CoreCompileInputs.cache
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\obj\Debug\netcoreapp2.1\ConsoleApp2.Db.AssemblyInfoInputs.cache
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\obj\Debug\netcoreapp2.1\ConsoleApp2.Db.AssemblyInfo.cs
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\obj\Debug\netcoreapp2.1\ConsoleApp2.Db.dll
+C:\Users\bella\source\repos\ConsoleApp2.Db\ConsoleApp2.Db\obj\Debug\netcoreapp2.1\ConsoleApp2.Db.pdb
